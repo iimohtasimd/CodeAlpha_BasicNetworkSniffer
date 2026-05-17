@@ -77,11 +77,10 @@ The objective of this project is to:
 
 ### TCP Packet Detection
 
-(Add screenshot here)
+<img width="432" height="355" alt="Screenshot From 2026-05-17 14-44-10" src="https://github.com/user-attachments/assets/6591a833-cc76-4769-95fe-831963e58972" />
 
 ### UDP Packet Detection
-
-(Add screenshot here)
+<img width="744" height="402" alt="Screenshot From 2026-05-17 14-44-51" src="https://github.com/user-attachments/assets/b1cb9a2c-51f1-4297-8116-6a547b2e7432" />
 
 ### ICMP Packet Detection
 
