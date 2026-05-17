@@ -42,7 +42,7 @@ pip install scapy
 Run the program with root privileges:
 
 ```bash
-sudo python3 sniffer.py
+sudo python3 Network-Sniffer.py
 ```
 
 ---
